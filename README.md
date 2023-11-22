@@ -91,13 +91,13 @@ By Gholamreza Dar
     * Using Lidar data to estimate the depth map
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-lidar-line_project.jpg?raw=true"/>
 
-   * Use Linear Interpolation to overcome the sparsity of Lidar data
+    * Using Linear Interpolation to overcome the sparsity of Lidar data
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-lerp.jpg?raw=true"/>
 
-   * Using stereo matching to estimate the depth map
+    * Using stereo matching to estimate the depth map
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-stereo.jpg?raw=true"/>
 
-   * 3D reconstruction of the scene using the estimated depth map
+    * 3D reconstruction of the scene using the estimated depth map
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-3dreconstruction.jpg?raw=true"/>
 
 
