@@ -79,15 +79,15 @@ By Gholamreza Dar
    <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
    
    <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
-   
+
    <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
 
   ## Exercise 7
- 
+
  - 3D Vision
     * Plotting Lidar data on the image using the camera parameters
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-lidar_plot_points.jpg?raw=true"/>
-   
+
     * Using Lidar data to estimate the depth map
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-lidar-line_project.jpg?raw=true"/>
 
@@ -99,16 +99,16 @@ By Gholamreza Dar
 
    * 3D reconstruction of the scene using the estimated depth map
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-3dreconstruction.jpg?raw=true"/>
-  
+
 
 ## Exercise 8
  - Detect Corners using Shi-Tomas Algorithm
   <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-shi-tomas.jpg?raw=true"/>
- 
+
  - Optical Flow using the Lukas-Kanade Algorithm
    <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-lukas.jpg?raw=true"/>
- 
+
  - Dense Optical Flow using the Gunnar-Farneback Algorithm
    <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-gunner.jpg?raw=true"/>
-   
+
    <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-gunner-hsv.jpg?raw=true"/>
