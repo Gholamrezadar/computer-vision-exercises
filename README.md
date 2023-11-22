@@ -29,7 +29,7 @@ By Gholamreza Dar
 ## Exercise 2
 
 - Road Lane Detection
-    * Detect road lanes using Canny, Hough, Clustering, and Linear regression
+    * Detect road lanes using Canny, Hough, Clustering lines by angle, and Linear regression
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/2-lanes.jpg?raw=true"/>
 - Road Lane Detection on video
     * Added smoothing features to maintain the lanes over time (Some frames were very blurry or foggy, but we could assume that the car doesn't suddenly change directions).
