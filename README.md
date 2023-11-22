@@ -37,4 +37,20 @@ By Gholamreza Dar
   video
 - Crack Segmentation using Active Contours
   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/3-active.jpg?raw=true"/>
-      
+
+## Exercise 3
+
+- Implement Otsu Thresholding
+- Implement Iterative Thresholding
+- Match Template Exercise
+   * Detect the template in various orientations by rotating the template each time.
+ <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/3-active.jpg?raw=true"/>
+
+ ## Exercise 4
+ 
+ - Colored-Image Segmentation by Clustering
+   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/3-active.jpg?raw=true"/>
+ - Image Segmentation using [GLCM](https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_glcm.html)
+   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/3-active.jpg?raw=true"/>
+ - Image Segmentation using Feature Banks
+   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/3-active.jpg?raw=true"/>
