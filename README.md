@@ -54,3 +54,23 @@ By Gholamreza Dar
    <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/3-active.jpg?raw=true"/>
  - Image Segmentation using Feature Banks
    <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/3-active.jpg?raw=true"/>
+
+## Exercise 5
+ 
+ - Feature Matching using SIFT
+    * Recover a rotated Image using feature matching
+   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/5-sift_result.jpg?raw=true"/>
+ - Compare SIFT and FREAK
+   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/5-sift_vs_freak.jpg?raw=true"/>
+
+## Exercise 6
+ 
+ - Object Detection on the Counter-Strike dataset (R-CNN method)
+    * Recover a rotated Image using feature matching
+   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/5-sift_vs_freak.jpg?raw=true"/>
+   
+    * Recover a rotated Image using feature matching
+   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/5-sift_vs_freak.jpg?raw=true"/>
+   
+    * Recover a rotated Image using feature matching
+   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/5-sift_vs_freak.jpg?raw=true"/>
