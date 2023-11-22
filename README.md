@@ -49,7 +49,7 @@ By Gholamreza Dar
 - Implement Iterative Thresholding
 - Match Template Exercise
    * Detect the template in various orientations by rotating the template each time.
- <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/3-matching.jpg?raw=true"/>
+<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/3-matching.jpg?raw=true"/>
 
  ## Exercise 4
  
@@ -68,19 +68,19 @@ By Gholamreza Dar
  
  - Feature Matching using SIFT
     * Recover a rotated Image using feature matching
-   <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-siftresult.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-siftresult.jpg?raw=true"/>
  
  - Compare SIFT and FREAK
-   <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/sift_vs_freak.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/sift_vs_freak.jpg?raw=true"/>
 
 ## Exercise 6
  
  - Object Detection on the Counter-Strike dataset (R-CNN method)
-   <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
    
-   <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
 
-   <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
 
   ## Exercise 7
 
@@ -103,12 +103,12 @@ By Gholamreza Dar
 
 ## Exercise 8
  - Detect Corners using Shi-Tomas Algorithm
-  <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-shi-tomas.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-shi-tomas.jpg?raw=true"/>
 
  - Optical Flow using the Lukas-Kanade Algorithm
-   <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-lukas.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-lukas.jpg?raw=true"/>
 
  - Dense Optical Flow using the Gunnar-Farneback Algorithm
-   <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-gunner.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-gunner.jpg?raw=true"/>
 
-   <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-gunner-hsv.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-gunner-hsv.jpg?raw=true"/>
