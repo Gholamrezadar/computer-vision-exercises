@@ -23,8 +23,8 @@ By Gholamreza Dar
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/1-alignment.jpg?raw=true"/>
 - Canny edge detection practice
 - Histogram Equalization using RGB vs YUV color spaces
-<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/Histogram_Equalization_RGB.jpg?raw=true"/>
-<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/Histogram_Equalization_YUV.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/Histogram_Equalization_RGB.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/Histogram_Equalization_YUV.jpg?raw=true"/>
 
 ## Exercise 2
 
@@ -53,13 +53,13 @@ By Gholamreza Dar
  ## Exercise 4
  
  - Colored-Image Segmentation by Clustering
-<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/4-clusteringseg.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/4-clusteringseg.jpg?raw=true"/>
  - Image Segmentation using [GLCM](https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_glcm.html)
-<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/onion_zebra.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/onion_zebra.png?raw=true"/>
  - Image Segmentation using Filter Banks
-<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/4-filterbanks.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/4-filterbanks.jpg?raw=true"/>
 
-<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/4-filterbanks_results.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/4-filterbanks_results.jpg?raw=true"/>
 
 ## Exercise 5
  
