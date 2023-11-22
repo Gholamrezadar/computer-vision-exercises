@@ -76,22 +76,30 @@ By Gholamreza Dar
 ## Exercise 6
  
  - Object Detection on the Counter-Strike dataset (R-CNN method)
-<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
+    * Classes are: W(eapon), T(errorist), C(ounter terrorist), D(ead), bg
+    * using mean (average) of a patch as the feature and KNN as classifier
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/6-mean-results.jpg?raw=true"/>
+    
+    * using LBP (Local Binary Pattern) of a patch as the feature and KNN as classifier
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/6-lbp-results.jpg?raw=true"/>
+   
+    * using Neural Network (EfficientNetb0) as the feature extractor and classifier
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/6-cnn-results.jpg?raw=true"/>
    
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
-
+   * Some of the results (Can definitely be improved but due to the end-of-semester time limits didn't try to improve it).
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
 
   ## Exercise 7
 
  - 3D Vision
-    * Plotting Lidar data on the image using the camera parameters
+    * Plotting LiDAR data on the image using the camera parameters
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-lidar_plot_points.jpg?raw=true"/>
 
-    * Using Lidar data to estimate the depth map
+    * Using LiDAR data to estimate the depth map
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-lidar-line_project.jpg?raw=true"/>
 
-    * Using Linear Interpolation to overcome the sparsity of Lidar data
+    * Using Linear Interpolation to overcome the sparsity of LiDAR data
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-lerp.jpg?raw=true"/>
 
     * Using stereo matching to estimate the depth map
