@@ -20,23 +20,23 @@ By Gholamreza Dar
 - Fundamental image manipulations
 - Extract colors using HSV colorspace and `inRange()` function
 - Align and Combine misaligned channels
-<img style="width:600px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/11.png?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/1-alignment.jpg?raw=true"/>
 - Canny edge detection practice
 - Histogram Equalization using RGB vs YUV color spaces
-<img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/rgb.png?raw=true"/>
-<img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/yuv.png?raw=true"/>
+<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/rgb.png?raw=true"/>
+<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/yuv.png?raw=true"/>
 
 ## Exercise 2
 
 - Road Lane Detection
     * Detect road lanes using Canny, Hough, Clustering, and Linear regression
-  <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/2-lanes.jpg?raw=true"/>
+  <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/2-lanes.jpg?raw=true"/>
 - Road Lane Detection on video
     * Added smoothing features to maintain the lanes over time (Some frames were very blurry or foggy, but we could assume that the car doesn't suddenly change directions).
   video
   video
 - Crack Segmentation using Active Contours
-  <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/3-active.jpg?raw=true"/>
+  <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/3-active.jpg?raw=true"/>
 
 ## Exercise 3
 
@@ -44,33 +44,60 @@ By Gholamreza Dar
 - Implement Iterative Thresholding
 - Match Template Exercise
    * Detect the template in various orientations by rotating the template each time.
- <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/3-active.jpg?raw=true"/>
+ <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/3-active.jpg?raw=true"/>
 
  ## Exercise 4
  
  - Colored-Image Segmentation by Clustering
-   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/3-active.jpg?raw=true"/>
+   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/3-active.jpg?raw=true"/>
  - Image Segmentation using [GLCM](https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_glcm.html)
-   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/3-active.jpg?raw=true"/>
+   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/3-active.jpg?raw=true"/>
  - Image Segmentation using Feature Banks
-   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/3-active.jpg?raw=true"/>
+   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/3-active.jpg?raw=true"/>
 
 ## Exercise 5
  
  - Feature Matching using SIFT
     * Recover a rotated Image using feature matching
-   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/5-sift_result.jpg?raw=true"/>
+   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_result.jpg?raw=true"/>
  - Compare SIFT and FREAK
-   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/5-sift_vs_freak.jpg?raw=true"/>
+   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
 
 ## Exercise 6
  
  - Object Detection on the Counter-Strike dataset (R-CNN method)
     * Recover a rotated Image using feature matching
-   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/5-sift_vs_freak.jpg?raw=true"/>
+   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
    
     * Recover a rotated Image using feature matching
-   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/5-sift_vs_freak.jpg?raw=true"/>
+   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
    
     * Recover a rotated Image using feature matching
-   <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/5-sift_vs_freak.jpg?raw=true"/>
+   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
+
+  ## Exercise 7
+ 
+ - 3D Vision
+    * Plotting Lidar data on the image using the camera parameters
+    <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
+   
+    * Using Lidar data to estimate the depth map
+    <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
+
+   * Use Linear Interpolation to overcome the sparsity of Lidar data
+    <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-lerp.jpg?raw=true"/>
+    
+    * Using stereo matching to estimate the depth map
+   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-stereo.jpg?raw=true"/>
+   
+    * Recover a rotated Image using feature matching
+   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
+
+## Exercise 8
+ - Detect Corners using Shi-Tomas Algorithm
+  <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-shi-tomas.jpg?raw=true"/>
+ - Optical Flow using the Lukas-Kanade Algorithm
+   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-lukas.jpg?raw=true"/>
+ - Dense Optical Flow using the Gunnar-Farneback Algorithm
+   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-gunner.jpg?raw=true"/>
+   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-gunner_hsv.jpg?raw=true"/>
