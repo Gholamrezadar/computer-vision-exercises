@@ -85,12 +85,10 @@ By Gholamreza Dar
    
  + using Neural Network (EfficientNetb0) as the feature extractor and classifier
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/6-cnn-results.jpg?raw=true"/>
-   
-<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
 
  + Some of the results (Can definitely be improved but due to the end-of-semester time limits didn't try to improve it).
     
-<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/6-results.jpg?raw=true"/>
 
   ## Exercise 7
 
