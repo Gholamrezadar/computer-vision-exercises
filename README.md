@@ -30,13 +30,16 @@ By Gholamreza Dar
 
 - Road Lane Detection
     * Detect road lanes using Canny, Hough, Clustering, and Linear regression
-  <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/2-lanes.jpg?raw=true"/>
+<img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/2-lanes.jpg?raw=true"/>
 - Road Lane Detection on video
     * Added smoothing features to maintain the lanes over time (Some frames were very blurry or foggy, but we could assume that the car doesn't suddenly change directions).
+  
   video
+  
   video
+  
 - Crack Segmentation using Active Contours
-  <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/2-active.jpg?raw=true"/>
+<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/2-active.jpg?raw=true"/>
 
 ## Exercise 3
 
@@ -49,12 +52,13 @@ By Gholamreza Dar
  ## Exercise 4
  
  - Colored-Image Segmentation by Clustering
-   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/4-clusteringseg.jpg?raw=true"/>
+<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/4-clusteringseg.jpg?raw=true"/>
  - Image Segmentation using [GLCM](https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_glcm.html)
-   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/onion_zebra.jpg?raw=true"/>
+<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/onion_zebra.jpg?raw=true"/>
  - Image Segmentation using Filter Banks
-   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/4-filterbanks.jpg?raw=true"/>
-   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/4-filterbanks_result.jpg?raw=true"/>
+<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/4-filterbanks.jpg?raw=true"/>
+
+<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/4-filterbanks_results.jpg?raw=true"/>
 
 ## Exercise 5
  
@@ -77,16 +81,19 @@ By Gholamreza Dar
  
  - 3D Vision
     * Plotting Lidar data on the image using the camera parameters
-    <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-sift_vs_freak.jpg?raw=true"/>
+<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-lidar_plot_points.jpg?raw=true"/>
    
     * Using Lidar data to estimate the depth map
-    <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-sift_vs_freak.jpg?raw=true"/>
+<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-lidar-line_project.jpg?raw=true"/>
 
    * Use Linear Interpolation to overcome the sparsity of Lidar data
-    <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-lerp.jpg?raw=true"/>
+ <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-lerp.jpg?raw=true"/>
     
     * Using stereo matching to estimate the depth map
-   <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-stereo.jpg?raw=true"/>
+<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-stereo.jpg?raw=true"/>
+
+   * 3D reconstruction of the scene using the estimated depth map
+<img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/7-3dreconstruction.jpg?raw=true"/>
   
 
 ## Exercise 8
@@ -96,4 +103,5 @@ By Gholamreza Dar
    <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-lukas.jpg?raw=true"/>
  - Dense Optical Flow using the Gunnar-Farneback Algorithm
    <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-gunner.jpg?raw=true"/>
+   
    <img style="width:400px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/8-gunner-hsv.jpg?raw=true"/>
