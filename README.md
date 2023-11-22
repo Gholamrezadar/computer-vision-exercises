@@ -76,19 +76,19 @@ By Gholamreza Dar
 ## Exercise 6
  
  - Object Detection on the Counter-Strike dataset (R-CNN method)
-    * Classes are: W(eapon), T(errorist), C(ounter terrorist), D(ead), bg
-    * using mean (average) of a patch as the feature and KNN as classifier
+    + Classes are: W(eapon), T(errorist), C(ounter terrorist), D(ead), bg
+    + using mean (average) of a patch as the feature and KNN as classifier
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/6-mean-results.jpg?raw=true"/>
     
-    * using LBP (Local Binary Pattern) of a patch as the feature and KNN as classifier
++ using LBP (Local Binary Pattern) of a patch as the feature and KNN as classifier
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/6-lbp-results.jpg?raw=true"/>
    
-    * using Neural Network (EfficientNetb0) as the feature extractor and classifier
++ using Neural Network (EfficientNetb0) as the feature extractor and classifier
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/6-cnn-results.jpg?raw=true"/>
    
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
-    
-    * Some of the results (Can definitely be improved but due to the end-of-semester time limits didn't try to improve it).
+
++ Some of the results (Can definitely be improved but due to the end-of-semester time limits didn't try to improve it).
     
 <img style="width:600px" src="https://github.com/Gholamrezadar/computer-vision-exercises/blob/main/Tahvil%20Tamrin%20CV/results/5-sift_vs_freak.jpg?raw=true"/>
 
