@@ -5,14 +5,14 @@ By Gholamreza Dar
 
 # Content
 - Table of Contents
-  * [Exercise 1](#exercise-1)
-  * [Exercise 2](#exercise-2)
-  * [Exercise 3](#exercise-3)
-  * [Exercise 4](#exercise-4)
-  * [Exercise 5](#exercise-5)
-  * [Exercise 6](#exercise-6)
-  * [Exercise 7](#exercise-7)
-  * [Exercise 8](#exercise-8)
+  * [Exercise 1](#exercise-1) [Image Manipulations, Canny Edge Detection, Histogram Equalization]
+  * [Exercise 2](#exercise-2) [Road Lane Detection, Crack Segmentation using Active Contours]
+  * [Exercise 3](#exercise-3) [Thresholding, Template Matching]
+  * [Exercise 4](#exercise-4) [Image Segmentation using K-Means, GLCM, FilterBanks]
+  * [Exercise 5](#exercise-5) [Feature Matching using SIFT and FREAK]
+  * [Exercise 6](#exercise-6) [Object Detection using R-CNN on Counter Strike Dataset]
+  * [Exercise 7](#exercise-7) [3D Vision, LiDAR data, Stereo Matching, 3D Scene Reconstruction, Depth Maps]
+  * [Exercise 8](#exercise-8) [Corner Detection, Optical FLow using Lukas-Kanade and Gunnar-Farneback]
   
 
 ## Exercise 1
